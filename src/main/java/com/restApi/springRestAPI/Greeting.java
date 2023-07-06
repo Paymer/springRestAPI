@@ -1,3 +1,4 @@
 package com.restApi.springRestAPI;
 
-public record Greeting(long id, String content) { }
+import lombok.Getter;
+public record Greeting(long id, @Getter String content) { }

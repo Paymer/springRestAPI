@@ -1,5 +1,6 @@
-package com.restApi.springRestAPI;
+package com.restApi.springRestAPI.greeting;
 
+import com.restApi.springRestAPI.greeting.Greeting;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

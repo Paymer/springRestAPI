@@ -1,5 +1,7 @@
 package com.restApi.springRestAPI.greeting;
 
+import com.restApi.springRestAPI.greeting.Greeting;
+import com.restApi.springRestAPI.greeting.GreetingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
